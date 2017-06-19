@@ -2,7 +2,7 @@
 NAS ="//cartografiashare.file.core.windows.net/colacino"
 DIRNAS ="/mnt/mountpoint"
 USER="cartografiashare"
-PASS="iD9kTJF6oRQMHHxrhwaUnXugj1BO7qUz2G7oDDCZa7NupJBMyCdpnfxgDgqKjLo6cDiqLv2cFqQzQ25QH/0mVg=="
+PASS="piFmBMa3KJ/YPmujCqBSaqADLrYu4hdG3sGTnJpdzR6Tl567z8xgL38bISgo5T3S4oXWP8BbREF01hMgz4ujxQ=="
 
 sudo yum install samba-client samba-common cifs-utils
 sudo mkdir $DIRNAS
